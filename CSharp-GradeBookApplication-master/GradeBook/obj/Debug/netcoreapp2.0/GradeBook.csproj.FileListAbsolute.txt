@@ -1,0 +1,11 @@
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\sam.wilson\Desktop\Coding_Projects\C#\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
